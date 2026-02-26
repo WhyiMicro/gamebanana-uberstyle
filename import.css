@@ -99,7 +99,7 @@ body {
 b,
 h2,
 h3 {
-  background: #1d !important;
+  background: #1d1d1d !important;
   text-align: center !important;
   color: white;
 }
@@ -111,13 +111,13 @@ h3 {
 
 /*Top Navigation properties*/
 #PrimaryNav {
-  background: #1d;
+  background: #1d1d1d;
   border-bottom: 2px solid var(--ModuleBorderColor);
 }
 
 /*Side Navgiation properties*/
 #SecondaryNav {
-  background: #1d;
+  background: #1d1d1d;
   border-right: 1px solid var(--ModuleBorderColor);
 }
 
